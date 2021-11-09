@@ -14,7 +14,7 @@ bot = Client(
 
     bot_token=BOT_TOKEN,
 
-    plugins={"root": "teamrdc"},
+    plugins={"root": "Teamrdc"},
 
 )
 
