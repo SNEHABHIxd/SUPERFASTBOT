@@ -2,7 +2,7 @@ import asyncio
 
 from pytgcalls import idle
 
-from SNEHABHI.abhishek import call_py, bot
+from SNEHABHI.abhishek.bestie import call_py, bot
 
 async def mulai_bot():
 
